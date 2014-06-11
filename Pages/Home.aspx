@@ -3,7 +3,7 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <img id="Img3" runat="server" src="~/Images/coffee1.png" class="imgLeft" />
-    <h3>Title 1</h3>
+    <h3>Title aaa1</h3>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lectus urna,
         viverra in luctus quis, ullamcorper quis lorem. Vestibulum vulputate pellentesque
         velit, et placerat dolor pulvinar in. Class aptent taciti sociosqu ad litora torquent
