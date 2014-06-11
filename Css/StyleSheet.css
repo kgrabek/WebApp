@@ -9,7 +9,7 @@
 #wrapper
 {
     width: 1080px;
-    background-color: white;
+    background-color: rgba(2, 0, 0, 0.4);
     margin: 0 auto;
     padding: 10px;
     border: 5px solid #dedede;
@@ -17,7 +17,7 @@
 
 #banner
 {
-    background-image: url('../Images/banner.jpg');
+    background-image: url('../Images/header_bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 200px;
@@ -52,7 +52,9 @@
     text-align: center;
     color: #fff;
     text-shadow: 0.1em 0.1em #333;
-    background-image: url(../Images/bar_background.png);
+    background-image: url(../Images/menu_bg.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
 }
 
 #navigation
@@ -60,7 +62,9 @@
     height: 60px;
     border: 3px solid #E3E3E3;
     margin-top: 20px;
-    background-image: url(../Images/bar_background.png);
+    background-image: url(../Images/menu_bg.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
     text-shadow: 0.1em 0.1em #333;
     font-weight: bolder;
 }
@@ -90,9 +94,9 @@
 
 #nav li ul li
 {
-    background-image: url(../Images/bar_background.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-image: url(../Images/menu_bg.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
     border: 3px solid #E3E3E3;
     padding-left: 10px;
 }
